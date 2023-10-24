@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 
-[Home](/index) | [Organisers](/about) | [Call for papers](/call) | [Workshop
+[Home]({{site.baseurl}}/index) | [Organisers](/about) | [Call for papers](/call) | [Workshop
 Program](/program)
 
 ## Workshop Program
