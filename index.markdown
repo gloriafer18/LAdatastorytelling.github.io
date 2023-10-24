@@ -7,8 +7,7 @@ sidebar:
 	nav:"docs"
 ---
 
-[Home](/index) | [Organisers](/about) | [Call for papers](/call) | [Workshop 
-Program](/program) 
+[Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/about) | [Call for papers]({{site.baseurl}}/call) | [Workshop Program]({{site.baseurl}}/program)
 
 # Converging Data Storytelling Narratives and Learning Analytics Dashboards
 

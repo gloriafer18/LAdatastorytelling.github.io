@@ -5,8 +5,8 @@ title: About
 permalink: /about/
 
 ---
-[Home](/index) | [Organisers](/about) | [Call for papers](/call) | [Workshop
-Program](/program)
+
+[Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/about) | [Call for papers]({{site.baseurl}}/call) | [Workshop Program]({{site.baseurl}}/program)
 
 ## Woskshop Organisers
 
@@ -23,15 +23,15 @@ Program](/program)
 
 <table border=0>
   <tr>
-    <td><img src="/MonashLogo.jpg" width="300"></td>
-    <td><img src="/UtahLogo.png" width="300"></td>
-    <td><img src="/QueenslandLogo.png" width="300"></td>
+    <td><img src="{{site.baseurl}}/MonashLogo.jpg" width="300"></td>
+    <td><img src="{{site.baseurl}}/UtahLogo.png" width="300"></td>
+    <td><img src="{{site.baseurl}}/QueenslandLogo.png" width="300"></td>
 
   </tr>
   <tr>
-    <td><img src="/UMBC-logo.png" width="300"></td>
-    <td><img src="/AlabamaLogo.png" width="300"></td>
-    <td><img src="/SRILogo.png" width="300"></td>
+    <td><img src="{{site.baseurl}}/UMBC-logo.png" width="300"></td>
+    <td><img src="{{site.baseurl}}/AlabamaLogo.png" width="300"></td>
+    <td><img src="{{site.baseurl}}/SRILogo.png" width="300"></td>
   </tr>
 </table>
 
