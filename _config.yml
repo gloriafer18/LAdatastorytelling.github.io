@@ -25,7 +25,10 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  Converging Data Storytelling Narratives and LA Dashboards
 
-baseurl: "/LAdatastorytelling.github.io/" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
+website: https://gloriafer18.github.io
+basewebsite: /LAdatastorytelling.github.io
+#permalink: date
 
 url: "http://www.ladatastorytelling.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
