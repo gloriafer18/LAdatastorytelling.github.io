@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-domain: https://gloriafer18.github.io/LAdatastorytelling.github.io
+domain: https://gloriafer18.github.io
 title: LAK24 - LA Data Storytelling and Narratives
 email: your-email@example.com
 
@@ -29,7 +29,7 @@ site: https://gloriafer18.github.io
 baseurl: /LAdatastorytelling.github.io
 #permalink: date
 
-url: "https://gloriafer18.github.io/LAdatastorytelling.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gloriafer18.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
