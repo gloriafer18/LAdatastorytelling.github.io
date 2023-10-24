@@ -19,21 +19,28 @@
 # in the templates via {{ site.myvariable }}.
 
 domain: www.ladatastorytelling.com
-title: Converging Data Storytelling Narratives and Learning Analytics Dashboards
+title: LAK24 - LA Data Storytelling and Narratives
 email: your-email@example.com
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/www" # the subpath of your site, e.g. /blog
+ Converging Data Storytelling Narratives and LA Dashboards
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+
 url: "http://www.ladatastorytelling.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "contrast"
+title_separator: "-"
+
+
 # Build settings
-theme: jekyll-nagymaros
+# theme: jekyll-nagymaros
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
