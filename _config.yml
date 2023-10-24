@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-domain: www.ladatastorytelling.com
+domain: https://gloriafer18.github.io/LAdatastorytelling.github.io/
 title: LAK24 - LA Data Storytelling and Narratives
 email: your-email@example.com
 
