@@ -26,9 +26,8 @@ their practice.
 
 ## Important dates
 
-- Workshop Paper Submission: 
-- Workshop Paper Notification: 
-- Camera-ready Submission: 
+- Workshop Paper Submission: 16 Dec 2023
+- Workshop Paper Notification: 13 Jan 2024 
 
 ## Submit
 
