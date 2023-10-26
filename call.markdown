@@ -29,7 +29,7 @@ their practice.
 - Workshop Paper Submission: 16 Dec 2023
 - Workshop Paper Notification: 13 Jan 2024
 
-The accepted papers will be published in the ![CEUR](https://ceur-ws.org/) Workshop Proceedings, but workshop papers are not included in the Companion Proceedings of LAK2024.
+The accepted papers will be published in the [CEUR](https://ceur-ws.org/) Workshop Proceedings, but workshop papers are not included in the Companion Proceedings of LAK2024.
 
 ## Submit
 
