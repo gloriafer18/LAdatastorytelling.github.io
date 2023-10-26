@@ -19,8 +19,11 @@ incorporate narratives into LA interfaces (e.g., dashboards) to facilitate the p
 feedback and pedagogical explanations. The LA community has researched Data Storytelling principles 
 and techniques to support educational stakeholders in interpreting their teaching and learning 
 progress. However, given the relevance of the story narrative, challenges arise to provide 
-unbiased, fair, and meaningful stories without misleading the communication of insights. This 
-workshop aims to explore the formal and practical challenges and opportunities of DS by engaging in 
+unbiased, fair, and meaningful stories without misleading the communication of insights. 
+
+### Workshop Goals
+
+This workshop aims to explore the formal and practical challenges and opportunities of DS by engaging in 
 discussions with the LA community. In this workshop, we expect to spark discussion on these main 
 topics: What methods and methodologies of DS from other domains are suitable for LA? How to 
 evaluate the impact of DS in LA? How can we automate the process of generating fair and unbiased 
